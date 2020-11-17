@@ -1,5 +1,5 @@
 {
-  "name": "demo-my-package",
+  "name": "demo-my-package-rachellimaa",
   "version": "1.0.0",
   "description": "Iniciando estudos npm package",
   "readmeFilename": "README.md",
@@ -24,7 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JayrAlencar/sqlite-cipher.js"
+    "url": "git+https://github.com/rachellimaa/firstPackageNpm"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  }
 }
