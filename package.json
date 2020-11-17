@@ -1,0 +1,30 @@
+{
+  "name": "demo-my-package",
+  "version": "1.0.0",
+  "description": "Iniciando estudos npm package",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "minhas",
+    "palavras",
+    "chaves"
+  ],
+  "tags": [
+    "minhas",
+    "tags"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Rachel Lima",
+    "email": "rachellimaa@gmail.com",
+    "homepage": "http://www.linkedin.com/in/rachel-limaa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayrAlencar/sqlite-cipher.js"
+  },
+  "license": "MIT"
+}
